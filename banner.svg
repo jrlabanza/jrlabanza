@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Jorelle Labanza. Software developer. jrlabanza.github.io">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="42%" r="58%">
+      <stop offset="0" stop-color="#2997ff" stop-opacity="0.34"/>
+      <stop offset="0.45" stop-color="#a259ff" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="eyebrow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2997ff"/>
+      <stop offset="0.55" stop-color="#a259ff"/>
+      <stop offset="1" stop-color="#ff375f"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c7c7cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="#000000"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glow)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="126" font-size="22" font-weight="600" letter-spacing="0.3" fill="url(#eyebrow)">Software Developer</text>
+    <text x="600" y="218" font-size="86" font-weight="700" letter-spacing="-2.6" fill="url(#name)">Jorelle Labanza.</text>
+    <text x="600" y="268" font-size="24" fill="#a1a1a6">Web apps, tools for running a room, and generative AI studios.</text>
+    <rect x="478" y="306" width="244" height="54" rx="27" fill="#0071e3"/>
+    <text x="600" y="341" font-size="20" font-weight="500" fill="#ffffff">jrlabanza.github.io  ›</text>
+  </g>
+</svg>
