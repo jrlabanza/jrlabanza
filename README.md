@@ -10,7 +10,7 @@
 
 | Project | What it is |
 |---|---|
-| **[AI Studio Hub](https://github.com/jrlabanza/ai-studio-hub)** | Five local AI studios sharing one 8 GB graphics card: Image (Qwen-Image-2.1, Iris-3B Turbo), Voice (Qwen3-TTS, Chatterbox, Fish Audio Drama-3), Video (LTX-2.5, MiniMax H3 - storyboards, extend, a built-in editor), Music (YuE2) and Forge. Each runs on demand in its own Docker container, with one GPU queue between them. Plus the **Sandbox**: upload a tool built with any AI, edit it in the browser and publish it to its own versioned, isolated link. Python · FastAPI · Docker · ComfyUI |
+| **[AI Studio Hub](https://github.com/jrlabanza/ai-studio-hub)** | Five local AI studios sharing one 8 GB graphics card: Image (Qwen-Image-2.1, Iris-3B Turbo), Voice (Qwen3-TTS, Chatterbox, Fish Audio Drama-3), Video (LTX-2.5, MiniMax H3 - storyboards, extend, a built-in editor), Music (YuE2) and Forge. Each runs on demand in its own Docker container, with one GPU queue between them. Plus the **Sandbox**: upload a tool built with any AI, edit it in the browser and publish it to its own versioned, isolated link. Guided tours walk new users through the hub and every studio. Python · FastAPI · Docker · ComfyUI |
 | **[Music Studio](https://github.com/jrlabanza/music-generator)** | YuE2 songs from lyrics and a style, with an editable score, on an 8 or 16 GB card. |
 | **[BRACKET.GG](https://github.com/jrlabanza/bracket.gg)** | A tournament platform in one HTML file: seeding, double elimination, live set reporting, standings. |
 | **[Online Trivia](https://github.com/jrlabanza/office-trivia-web-game)** | Kahoot-style multiplayer trivia for your LAN, with a built-in quiz editor. |
